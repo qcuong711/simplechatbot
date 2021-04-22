@@ -1,0 +1,180 @@
+L1 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Hello! What do you want to ask?
+L2 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Hello.
+L3 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Hello! Can i help you?
+L4 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Hi.
+L5 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Hello! Do you want any assistance?
+L6 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Yo.
+L7 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Information technology's chatbot.
+L8 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is your faculty?
+L9 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Information technology.
+L10 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is your branch?
+L11 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I am the first version of CT Coconut team’s chatbot and student advisoring.
+L12 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Introduce about yourself.
+L13 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Information technology.
+L14 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is your branch?
+L15 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Faculty of Information Technology including difference major.
+L16 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Introducing about your faculty?
+L17 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Faculty of Information Technology including difference major.
+L18 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Introduce about your faculty.
+L19 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Computer engineering , Information Systems, Software Engineering, CLC.
+L20 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What major?
+L21 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Computer engineering , Information Systems, Software Engineering, CLC.
+L22 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Tell me about major?
+L23 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ CLC is information technology – high quality.
+L24 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ CLC?
+L25 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ CLC is information technology – high quality.
+L26 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is CLC meaning?
+L27 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ The tuition fee higher than normal program. However, facility and teaching quality is very perfect.
+L28 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Tell me about CLC.
+L29 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ The tuition fee higher than normal program. However, facility and teaching quality is very perfect.
+L30 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Introducing about CLC.
+L31 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ 28 per year and do not incresing after year.
+L32 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Tuition fee.
+L33 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ 28 per year and do not incresing after year.
+L34 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ How about tuition fee?
+L35 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ 28 per year and do not incresing after year.
+L36 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Fee?
+L37 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ 28 per year and do not incresing after year.
+L38 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ How about the fee?
+L39 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Facility and teaching quality. Really really difference.
+L40 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What are differences between CLC and normal program?
+L41 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It depends on student. <3 i can not recommend for you..
+L42 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is the most interesting major?
+L43 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe computer engineering is good for you.
+L44 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend 1 major for me?
+L45 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe Information Systems is good for you.
+L46 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend 1 major for me?
+L47 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe Software Engineering is good for you.
+L48 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend 1 major for me?
+L49 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe CLC is good for you.
+L50 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend 1 major for me?
+L51 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe computer engineering is good for you.
+L52 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Recommend?
+L53 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe Information Systems is good for you.
+L54 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Recommend?
+L55 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe Software Engineering is good for you.
+L56 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Recommend?
+L57 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe CLC is good for you.
+L58 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Recommend?
+L59 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe computer engineering is good for you.
+L60 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend?
+L61 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe Information Systems is good for you.
+L62 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend?
+L63 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe Software Engineering is good for you.
+L64 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend?
+L65 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Maybe CLC is good for you.
+L66 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Just recommend?
+L67 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Because it’s hot.
+L68 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Why good for me?
+L69 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It means a lot of student studying. 
+L70 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Hot?
+L71 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ CE is the branch of engineering that integrates electronic engineering with computer sciences.
+L72 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Computer engineering?
+L73 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ CE is the branch of engineering that integrates electronic engineering with computer sciences.
+L74 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is computer engineering ?
+L75 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ CE is the branch of engineering that integrates electronic engineering with computer sciences.
+L76 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Computer engineering?
+L77 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ 2CE is the branch of engineering that integrates electronic engineering with computer sciences.
+L78 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is Computer engineering??
+L79 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ You will learn analyzing skills - designing - construction of hardware and software systems.
+L80 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What to learn in Computer engineering??
+L81 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Chip, robot, system design: embedded, electro-electronic, automatic control.
+L82 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What things relate in Computer engineering??
+L83 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Programmers, engineers design electronic circuits, control circuits ...
+L84 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What are  jobs of Computer engineering??
+L85 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Engineers, working at universities and research institutes ...
+L86 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What are  jobs of Computer engineering??	
+L87 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I think that it depending on passion and ability of student.
+L88 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is IS easy to learn ?
+L89 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I think that it depending on passion and ability of student.
+L90 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is Computer engineering? easy to learn ?
+L91 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I think that it depending on passion and ability of student.
+L92 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is Software Engineering easy to learn ?
+L93 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ 2I think that it depending on passion and ability of student.
+L94 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is CLC easy to learn ?
+L95 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I think it really easy for you because you a smart guy.
+L96 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is Information Technology easy to learn ?
+L97 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I think it really easy for you because you a smart guy.
+L98 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is Computer engineering? easy to learn ?
+L99 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I think it really easy for you because you a smart guy.
+L100 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is Software Engineering easy to learn ?
+L101 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I think it really easy for you because you a smart guy.
+L102 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Is CLC easy to learn ?
+L103 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It is a training industry for the bachelor of building and operating the Information System.
+L104 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Information Systems?
+L105 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It is a training industry for the bachelor of building and operating the Information System.
+L106 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is Information Systems?
+L107 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It is a training industry for the bachelor of building and operating the Information System.
+L108 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Information Systems?
+L109 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It is a training industry for the bachelor of building and operating the Information System.
+L110 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is Information Systems?
+L111 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Focusing on the design, administration and operation of information systems; data analysis to support decision-making.
+L112 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is orperating the information system?
+L113 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Focusing on the design, administration and operation of information systems; data analysis to support decision-making.
+L114 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Operating Information Systems.
+L115 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Focusing on the design, administration and operation of information systems; data analysis to support decision-making.
+L116 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What OIS?
+L117 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Is the design, management, data analysis of information systems ...
+L118 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is orperating the information system?
+L119 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Is the design, management, data analysis of information systems ...
+L120 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Operating Information Systems.
+L121 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Is the design, management, data analysis of information systems ...
+L122 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What Operating Information Systems?
+L123 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Learn about analyzing, designing construction, deployment, management and controlling of management information systems.
+L124 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What to learn in Information Systems?
+L125 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Administration, security management, can also be teaching.
+L126 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What things relate in Information Systems?
+L127 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ About 8-15 million.
+L128 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ The salary of Information Systems?
+L129 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ You can be a trainer, designer, administrator and security specialist.
+L130 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What are  jobs of Information Systems?
+L131 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ You can be a trainer, designer, administrator and security specialist.
+L132 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What jobs of Information Systems?
+L133 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Studing about coding.
+L134 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What to learn in Software Engineering?
+L135 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Mostly coding software, applications or programs.
+L136 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What things relate in Information Systems?
+L137 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ If you're good, the salary is really high. Over 20 million Sound good???
+L138 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ The salary of Software Engineering?
+L139 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Actually Programmer :3.
+L140 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What are  jobs of Software Engineering?
+L141 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Actually Programmer :3.
+L142 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ WWhat jobs of Software Engineering?
+L143 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It’s for people, who really like coding.
+L144 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Software Engineering?
+L145 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It’s for people, who really like coding.
+L146 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Software Engineering?
+L147 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It’s for people, who really like coding.
+L148 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Software Engineering?
+L149 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ It’s for people, who really like coding.
+L150 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ What is Software Engineering?
+L151 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Have you decided yet?
+L152 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Thanks.
+L153 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Have you decided yet?
+L154 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Ok.
+L155 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Have you decided yet?
+L156 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ I understand at all.
+L157 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ What major you will choose?
+L158 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Ok.
+L159 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ What major you will choose?
+L160 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Thanks.
+L161 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ What major you will choose?
+L162 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ I understand at all.
+L163 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I am glad to hear that.
+L164 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Yes, I have.
+L165 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I am glad to hear that.
+L166 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Maybe i will chosse Software Engineering.
+L167 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I am glad to hear that.
+L168 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Maybe i will chosse Software Engineering.
+L169 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I am glad to hear that.
+L170 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Maybe i will chosse CLC.
+L171 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ I am glad to hear that.
+L172 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Maybe i will chosse Computer engineering?.
+L173 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Thanks you to talk with me.
+L174 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Bye.
+L175 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Thanks you to talk with me.
+L176 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Good bye.
+L177 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Thanks you to talk with me.
+L178 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ See you.
+L179 +++$+++ u0 +++$+++ m0 +++$+++ ME +++$+++ Thanks you to talk with me.
+L180 +++$+++ u2 +++$+++ m0 +++$+++ YOU +++$+++ Thanks at all.
